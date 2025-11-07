@@ -1,80 +1,67 @@
-# IsykaSilva---Portfolio
-Data | GIS | R | Ecology
+#  Isyka Silva - Portfolio  
+**Data • GIS • R • Ecology • Conservation**
 
-## About Me
-I have a B.S. in Biology from Sam Houston State University. I'm passionate about environmental sciecne, ecology, and using data/GIS to support conservation decisions. My goal is to transition into a role in ecological research, conservation biology, or environmental data science. This portfolio displays my ongoing learning, mini-projects, and technical skills.
+---
 
-## Skills
-### Technical Tools
-- R (data analysis, visualization)
-- QGIS / ArcGIS (spatial data handling & mapping) 
-- Data cleaning & manipulation (tidyverse in R, CSV/Excel)  
-- Basic field/lab techniques (sample collection, data entry)  
-- Git & version control (GitHub)
+##  About Me
+I hold a **B.S. in Biology** from *Sam Houston State University* and am passionate about **environmental science, ecology, and using data and GIS tools to support conservation decisions**.  
 
-### Domain Knowledge  
-- Ecology & wildlife biology  
-- Conservation principles  
-- Environmental monitoring & assessment  
-- Spatial habitat analysis
+My goal is to transition into a role in **ecological research, conservation biology, or environmental data science**. This portfolio highlights my ongoing learning, mini-projects, and technical skills as I build toward that career path.
 
-## Projects  
-### 1. TBD  
-**Date:** YYYY-MM  
-**Description:** Brief description of what you did.  
-**Tools used:**   
-**What I learned / key take-aways:**  
-- bullet  
-- bullet  
-**Link to project folder:** [GitHub link]  
+---
 
-## Learning Log  
-Here you’ll find a chronological log of my learning progress:  
-# [Your Name]’s Portfolio  
-Data | GIS | Ecology
+##  Skills
 
-## About Me  
-I hold a B.S. in Biology from [University name] and I’m passionate about environmental science, wildlife ecology, and using data/GIS to support conservation decisions. My goal is to transition into a role in ecological research, conservation biology or environmental data science. This portfolio shows my ongoing learning, mini-projects and technical skills.
+###  Technical Tools
+- **Programming & Analysis:** R, RStudio  
+- **GIS & Spatial Analysis:** QGIS, ArcGIS (learning in progress)  
+- **Data Management & Visualization:** Microsoft Excel, Google Sheets, ggplot2  
+- **Reporting & Documentation:** Markdown, R Markdown  
+- **Field & Lab Techniques:** Ecological sampling, GPS data collection, specimen handling  
 
-## Skills  
-### Technical Tools  
-- R (data analysis, visualization)  
-- QGIS / ArcGIS (spatial data handling & mapping)  
-- Data cleaning & manipulation (tidyverse in R, CSV/Excel)  
-- Basic field/lab techniques (sample collection, data entry)  
-- Git & version control (GitHub)  
-- [Add any other relevant tool here]
+---
 
-### Domain Knowledge  
-- Ecology & wildlife biology  
-- Conservation principles  
-- Environmental monitoring & assessment  
-- Spatial habitat analysis  
-- [Add any other relevant knowledge area]
+###  Domain Knowledge  
 
-## Projects  
-### 1. [Project Name]  
-**Date:** YYYY-MM  
-**Description:** Brief description of what you did.  
-**Tools used:** (e.g., R, QGIS)  
-**What I learned / key take-aways:**  
-- bullet  
-- bullet  
-**Link to project folder:** [GitHub link]  
+#### Ecology & Conservation Science  
+- Population and community ecology, species interactions, and behavioral ecology  
+- Biodiversity conservation, habitat restoration, and sustainability practices  
+- Human–wildlife conflict mitigation and environmental monitoring  
 
-### 2. [Project Name]  
-*(same structure)*
+#### Analytical & Technical Expertise  
+- Biostatistics, hypothesis testing, and ecological data visualization in R  
+- Field survey design, population estimation, and environmental assessment  
+- GIS-based spatial analysis and habitat mapping  
 
-*(Add as many projects as you have)*
+#### Biological Foundations  
+- Taxonomy and systematics of plants, vertebrates, and invertebrates  
+- Microbial roles in nutrient cycling, soil and water quality, and ecosystem health  
+- Evolutionary biology and comparative anatomy  
 
-## Learning Log  
-Here you’ll find a chronological log of my learning progress:  
+#### Science Communication  
+- Translating complex ecological research into educational materials and outreach initiatives  
+
+---
+
+##  Learning Journal  
+
 | Date       | Skill / Course                          | What I did                              | What I learned                             |
-|------------|-----------------------------------------|-----------------------------------------|--------------------------------------------|
-| 2025-11-06 | “Introduction to QGIS” (free course)    | Imported shapefile of local watershed   | Learned buffer analysis, symbology, layout |
-| …          | …                                       | …                                       | …                                          |
+|-------------|-----------------------------------------|-----------------------------------------|--------------------------------------------|
+| 11-06-2025| “Introduction to QGIS”  | Imported shapefile of local watershed   | Learned buffer analysis, symbology, and map layout |
+| …           | …                                       | …                                       | …                                          |
 
-## Contact  
-- LinkedIn: (https://www.linkedin.com/in/isyka-silva-a2b647382/)  
-- GitHub: (https://github.com/IsykaSilva09)  
-- Email: Isyka.Silva@yahoo.com 
+---
+
+##  Contact  
+
+- **LinkedIn:** [linkedin.com/in/isyka-silva-a2b647382](https://www.linkedin.com/in/isyka-silva-a2b647382)  
+- **GitHub:** [github.com/IsykaSilva09](https://github.com/IsykaSilva09)  
+- **Email:** [Isyka.Silva@yahoo.com](mailto:Isyka.Silva@yahoo.com)  
+
+---
+
+*Last updated: November 2025*  
+
+
+
+
